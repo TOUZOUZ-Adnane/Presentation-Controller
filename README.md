@@ -9,6 +9,10 @@ This project allows users to control a presentation and annotate slides using ha
 - **Annotation**: Draw and erase annotations on slides with hand gestures.
 - **Color Selection**: Change annotation colors by interacting with color bars on the slide.
 
+## Demo
+
+Watch a demonstration of the virtual painter application on YouTube: [Presentation Controller Demo](https://studio.youtube.com/video/qWpsnV_0sA4/edit)
+
 ## Requirements
 
 - Python 3.x
